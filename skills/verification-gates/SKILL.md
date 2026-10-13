@@ -2,7 +2,7 @@
 name: verification-gates
 description: "Prove changes work before done — five gates, with evidence."
 version: 0.1.0
-author: Justin Sharpe (justinsharpe), Hermes Agent
+author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

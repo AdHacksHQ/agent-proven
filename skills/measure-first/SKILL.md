@@ -2,7 +2,7 @@
 name: measure-first
 description: "No performance claim without a before/after measurement."
 version: 0.1.0
-author: Justin Sharpe (justinsharpe), Hermes Agent
+author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

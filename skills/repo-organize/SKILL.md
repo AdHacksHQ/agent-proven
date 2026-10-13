@@ -2,7 +2,7 @@
 name: repo-organize
 description: "Score module debt, fix worst-first with gates."
 version: 0.1.0
-author: Justin Sharpe (justinsharpe), Hermes Agent
+author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

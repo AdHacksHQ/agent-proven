@@ -2,7 +2,7 @@
 name: hermes-cron-stuck-job-recovery
 description: "Kill a wedged hermes cron run; no cancel verb exists."
 version: 0.1.0
-author: Justin Sharpe (justinsharpe), Hermes Agent
+author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

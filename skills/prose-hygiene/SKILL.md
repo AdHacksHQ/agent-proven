@@ -2,7 +2,7 @@
 name: prose-hygiene
 description: "Sweep grammar, typos, and clarity in comments and docs."
 version: 0.1.0
-author: Justin Sharpe (justinsharpe), Hermes Agent
+author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

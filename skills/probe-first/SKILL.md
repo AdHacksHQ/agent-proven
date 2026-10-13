@@ -2,7 +2,7 @@
 name: probe-first
 description: "Reproduce bugs with a probe before fixing — red proof first."
 version: 0.1.0
-author: Justin Sharpe (justinsharpe), Hermes Agent
+author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:

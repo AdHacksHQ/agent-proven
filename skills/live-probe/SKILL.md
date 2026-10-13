@@ -2,7 +2,7 @@
 name: live-probe
 description: "Run the real code against real live processes — the capability fixtures lack."
 version: 1.0.0
-author: Justin Sharpe (justinsharpe), Hermes Agent
+author: Hermes Agent
 license: MIT
 platforms: [linux, macos, windows]
 metadata:
